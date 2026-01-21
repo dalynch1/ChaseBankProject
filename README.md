@@ -44,3 +44,5 @@ This project analyzes the optimized branch network from Project 1 using clusteri
 - Average and total deposits per cluster
 - Branch load (branches served) by cluster
 - County and state-level breakdowns
+
+Tableau Dashboard Link: https://public.tableau.com/app/profile/d.lynch/viz/ChaseOptimizationDashboard/Dashboard1?publish=yes
